@@ -1,0 +1,16 @@
+
+.navbar {
+    background-color: rgb(4, 58, 17);
+}
+.jumbotron {
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+    margin: 0;
+    padding: 30px;
+}
+.body {
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#loginModal{
+    background-color: pink;
+}
