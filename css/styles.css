@@ -1,6 +1,6 @@
 
 .navbar {
-    background-color: rgb(4, 58, 17);
+    background-color: rgb(49, 176, 235);
 }
 .jumbotron {
     font-family: 'Permanent Marker', cursive;
@@ -17,5 +17,10 @@
 .loginButton {
     position: absolute;
     right: 15px;
-    
 }
+
+.site-footer {
+    background-image: linear-gradient(rgb(120, 196, 231), white);
+    padding: 20px;
+}
+
