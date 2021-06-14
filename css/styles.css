@@ -24,3 +24,7 @@
     padding: 20px;
 }
 
+.search-container {
+    position: absolute;
+    right: 110px;
+}
