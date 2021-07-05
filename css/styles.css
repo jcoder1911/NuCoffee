@@ -2,16 +2,15 @@
 .navbar {
     background-color: rgb(49, 176, 235);
 }
+
 .jumbotron {
     font-family: 'Permanent Marker', cursive;
-    background-color: white;
-    margin: 0;
-    padding: 30px;
+    background-image: linear-gradient(to right, rgb(211, 199, 31), rgb(221, 233, 53), rgb(160, 190, 24));
+    margin: 0px;
+    padding: 0px;
 }
 .body {
     font-family: 'Alegreya Sans', sans-serif;
-}
-#loginModal{
 }
 
 .loginButton {
@@ -28,3 +27,10 @@
     position: absolute;
     right: 110px;
 }
+
+#nuCarousel {
+    width: 50rem;
+    height: 50rem;
+    padding: 10px
+}
+
